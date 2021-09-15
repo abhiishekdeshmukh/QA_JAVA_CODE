@@ -15,6 +15,5 @@ public class Employee
 		Employee emp = new Employee();
 		emp.empId(101);
 		emp.empId("E102");
-		
 	}
 }
